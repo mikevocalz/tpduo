@@ -1,0 +1,12 @@
+{
+  "name": "tpduo",
+  "displayName": "tpduo",
+  "expo": {
+    "name": "tpduo",
+    "slug": "tpduo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

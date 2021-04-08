@@ -137,7 +137,7 @@ function App() {
         onePaneDefault={TwoPaneAppDefaultComponents.onePaneDefault}
         twoPaneDefault={TwoPaneAppDefaultComponents.twoPaneDefault}
         config={TwoPaneAppDefaultComponents.config}
-      //navigationContainer={AppContainer()}
+        navigationContainer={AppContainer()}
       />
     </PaperProvider>
 
